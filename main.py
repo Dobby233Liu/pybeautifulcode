@@ -6,11 +6,10 @@ def main():
     print "PyBeuatifulCode beta";
     isFromWeb = input("isFromWeb = ");
     url = None;
-    if isFromWeb == True :
+    if isFromWeb == True:
         url = raw_input("url = ");
     else: 
         url = raw_input("code = ");
-    
     filename = raw_input("filename = ");
     # urlDef = "http://info.cern.ch/hypertext/WWW/TheProject.html";
     if isFromWeb == True:
