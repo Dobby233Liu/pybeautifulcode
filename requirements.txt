@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+# lxml-u4-qpython==2.3.6
+lxml==2.3.6
+urllib3==1.23
